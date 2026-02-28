@@ -1,9 +1,9 @@
 {
   "MNQ": {
-    "BandaSuperior": 24919,
-    "BandaInferior": 24884,
-    "Fireline": 24901,
-    "Horizonte": 24880,
+    "BandaSuperior": 24982,
+    "BandaInferior": 24946,
+    "Fireline": 24958,
+    "Horizonte": 0,
     "SubBandaSuperior": 0,
     "SubBandaInferior": 0
   },
